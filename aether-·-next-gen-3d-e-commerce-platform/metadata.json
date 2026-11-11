@@ -1,0 +1,6 @@
+{
+  "name": "AETHER · Next-Gen 3D E-Commerce Platform",
+  "description": "Premium futuristic 3D e-commerce flagship store with interactive 3D product inspection, exploded engineering views, real-time customizer, customer portal, and complete admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
